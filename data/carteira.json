@@ -1,0 +1,40 @@
+
+
+{
+  "investidor": "Kauã Castro",
+  "data_inicio": "2026-01-01",
+  "ativos": [
+    {
+      "ticker": "KNRI11",
+      "tipo": "FII",
+      "quantidade": 50,
+      "preco_medio": 120.50,
+      "data_aquisicao": "2024-01-15"
+    },
+    {
+      "ticker": "MXRF11",
+      "tipo": "FII",
+      "quantidade": 100,
+      "preco_medio": 9.80,
+      "data_aquisicao": "2024-03-10"
+    },
+    {
+      "ticker": "BOVA11",
+      "tipo": "ETF",
+      "quantidade": 20,
+      "preco_medio": 95.00,
+      "data_aquisicao": "2024-02-20"
+    }
+  ],
+  "renda_fixa": [
+    {
+      "nome": "CDB Nubank 102% CDI",
+      "tipo": "CDB",
+      "valor_investido": 5000.00,
+      "taxa": 102.0,
+      "data_aquisicao": "2024-01-01",
+      "vencimento": "2027-01-01",
+      "liquidez": "diaria"
+    }
+  ]
+}
